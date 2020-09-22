@@ -1,4 +1,4 @@
-# paintjs
+# aintjs
 
 >  Painting Board made with VanillaJS
 
